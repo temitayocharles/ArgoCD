@@ -15,7 +15,7 @@ spec:
 
   - repoURL: https://charts.external-secrets.io
     chart: external-secrets
-    targetRevision: "0.10.5"
+    targetRevision: "0.10.7"
     helm:
       releaseName: external-secrets
       valueFiles:
